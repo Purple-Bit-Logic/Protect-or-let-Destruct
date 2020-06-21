@@ -8,4 +8,4 @@
 
 
 ## **Technologies we used :**
-#### **HTML, CSS, Javascript, Bootstrap, Github Pages**
+#### **HTML, CSS, Javascript, Bootstrap, Github Pages, j-query**
